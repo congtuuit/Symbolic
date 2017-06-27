@@ -1,0 +1,4 @@
+1. copy file "license" vao thu muc cai dat maple 18
+path: C:\Program Files (x86)\Maple 18\license
+2. copy file maple.dll vao duong dan sau
+path: C:\Program Files (x86)\Maple 18\bin.win

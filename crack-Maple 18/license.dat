@@ -1,0 +1,4 @@
+FEATURE Maple18 maplelmg 7777.7777 permanent uncounted HOSTID=INTERNET=*.*.*.* ISSUER= ISSUED= NOTICE= SN= TS_OK SIGN= 
+FEATURE Maple18Excel maplelmg 7777.7777 permanent uncounted HOSTID=INTERNET=*.*.*.* ISSUER= ISSUED= NOTICE= SN= TS_OK SIGN= 
+FEATURE MaplePlayer18 maplelmg 7777.7777 permanent uncounted HOSTID=INTERNET=*.*.*.* ISSUER= ISSUED= NOTICE= SN= TS_OK SIGN= 
+FEATURE MapleReader18 maplelmg 7777.7777 permanent uncounted HOSTID=INTERNET=*.*.*.* ISSUER= ISSUED= NOTICE= SN= TS_OK SIGN=
